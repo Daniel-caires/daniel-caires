@@ -4,7 +4,7 @@
 **Daniel-caires/daniel-caires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 $theme=vision-friendly-dark
 Here are some ideas to get you started:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-caires)](https://github.com/daniel-caires/github-readme-stats) (https://github-readme-stats.vercel.app/api?username=daniel-caires&theme=vision-friendly-dark_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-caires&theme=vision-friendly-dark_icons=true)](https://github.com/daniel-caires/github-readme-stats) 
 
 vision-friendly-dark
 - 🔭 I’m currently working on ...
